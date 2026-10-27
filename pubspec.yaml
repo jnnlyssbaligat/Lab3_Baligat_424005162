@@ -1,0 +1,6 @@
+name: lab3_baligat_424005162
+description: Lab 3 Final Midterm Project - The Dart App Simulator (Clinic Appointment Tracker)
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
