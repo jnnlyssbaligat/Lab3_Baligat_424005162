@@ -1,7 +1,9 @@
 # Lab 3: The Dart App Simulator (Clinic Appointment Tracker)
 
 **Name:** Jenna Alyssa Q. Baligat
+
 **Student No.:** 424005162
+
 **Course:** BSIT 3.8, National Teachers College
 
 A console-based Dart OOP app with asynchronous features that simulates a
